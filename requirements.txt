@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+PyJWT
+cryptography
+unidiff
+requests
+anthropic
+openai
